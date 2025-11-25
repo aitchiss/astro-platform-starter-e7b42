@@ -4,7 +4,7 @@
 
 A modern starter based on Astro.js, Tailwind, daisyUI, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blob Store).
 
-## Astro Commands
+## Astro Commands test
 
 All commands are run from the root of the project, from a terminal:
 
